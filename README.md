@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rudra
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pandeyrudresh74@gmail.com
 
 <!---
