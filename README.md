@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rudra
-- 👀 I’m interested in ML, BLOCKCHAIN
+- 👀 I’m interested in ML, WEB3
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me pandeyrudresh74@gmail.com
 
